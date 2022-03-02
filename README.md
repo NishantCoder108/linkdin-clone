@@ -1,5 +1,5 @@
 <!-- git command -->
-
+<h1> Git Command</h1>
 git checkout branchName : - For Switching to Another Branch
 
 git checkout -b branchName : - For Creating the Branch and also Switched
