@@ -1,6 +1,6 @@
 <!-- git command -->
 <h1> Git Command</h1>
-<h3>
+<h4>
 git checkout branchName    : - For Switching to Another Branch
 
 git checkout -b branchName : - For Creating the Branch and also Switched
@@ -21,4 +21,4 @@ git status                      :-For staging
 git add .                       :- Add to all stages
 
 git add fileName                :- that file will be added
-</h3>
+</h4>
